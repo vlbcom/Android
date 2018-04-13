@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logout">Выход</string>
+    <string name="is_empty">Нет контактов</string>
+    <string name="type_email">Введите Емаил</string>
+</resources>

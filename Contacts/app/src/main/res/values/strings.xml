@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="logout">Logout</string>
+    <string name="is_empty">Is Empty</string>
+    <string name="type_email">Type email</string>
+</resources>
